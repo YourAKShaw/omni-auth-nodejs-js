@@ -1,0 +1,12 @@
+{
+  "name": "omni-auth-nodejs-js",
+  "version": "1.0.0",
+  "description": "A backend template made using Node.js, Express.js, and JavaScript for multiple auth modes, hence omni.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["auth"],
+  "author": "YourAKShaw",
+  "license": "ISC"
+}
