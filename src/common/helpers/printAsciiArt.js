@@ -1,5 +1,3 @@
-/* eslint-disable indent */
-/* eslint-disable max-len */
 /**
  * to print ascii art
  */
