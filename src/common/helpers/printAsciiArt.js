@@ -3,7 +3,7 @@
  */
 function printAsciiArt() {
   console.log();
-  const taskManagerAsciiArt = String.raw`
+  const omniAuthAsciiArt = String.raw`
  ░▒▓██████▓▒░ ░▒▓██████████████▓▒░ ░▒▓███████▓▒░ ░▒▓█▓▒░      
 ░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░      
 ░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░      
@@ -20,7 +20,7 @@ function printAsciiArt() {
 ░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░   ░▒▓█▓▒░    ░▒▓█▓▒░░▒▓█▓▒░ 
 ░▒▓█▓▒░░▒▓█▓▒░ ░▒▓██████▓▒░    ░▒▓█▓▒░    ░▒▓█▓▒░░▒▓█▓▒░ 
   `;
-  console.log(taskManagerAsciiArt);
+  console.log(omniAuthAsciiArt);
   console.log();
 }
 
